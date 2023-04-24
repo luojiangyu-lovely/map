@@ -1,6 +1,6 @@
-/* .app-button {
-  position: sticky;
-  right: 1000px;
+.app-button {
+  position: fixed;
   top: 44px;
-} */
+  right: 10px;
+}
 
